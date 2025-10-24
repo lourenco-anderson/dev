@@ -1,3 +1,5 @@
+/home/anderson/openairinterface5g/cmake_targets/ran_build/build/libUTIL.a
+/home/anderson/openairinterface5g/cmake_targets/ran_build/build/libCONFIG_LIB.a
 /home/anderson/openairinterface5g/cmake_targets/ran_build/build/common/utils/LOG/libLOG.a
 /home/anderson/openairinterface5g/cmake_targets/ran_build/build/common/utils/T/libT.a
 /home/anderson/openairinterface5g/cmake_targets/ran_build/build/common/utils/T/tracer/filter/libtracer_filter.a
