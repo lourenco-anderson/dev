@@ -1,0 +1,11 @@
+/home/anderson/openairinterface5g/cmake_targets/ran_build/build/libcoding.so
+/home/anderson/openairinterface5g/cmake_targets/ran_build/build/libdfts.so
+/home/anderson/openairinterface5g/cmake_targets/ran_build/build/libldpc_orig.so
+/home/anderson/openairinterface5g/cmake_targets/ran_build/build/libldpc.so
+/home/anderson/openairinterface5g/cmake_targets/ran_build/build/libnrscope.so
+/home/anderson/openairinterface5g/cmake_targets/ran_build/build/liboai_device.so
+/home/anderson/openairinterface5g/cmake_targets/ran_build/build/liboai_usrpdevif.so
+/home/anderson/openairinterface5g/cmake_targets/ran_build/build/libparams_libconfig.so
+/home/anderson/openairinterface5g/cmake_targets/ran_build/build/libparams_yaml.so
+/home/anderson/openairinterface5g/cmake_targets/ran_build/build/librfsimulator.so
+/home/anderson/openairinterface5g/cmake_targets/ran_build/build/libvrtsim.so

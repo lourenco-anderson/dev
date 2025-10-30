@@ -3,9 +3,9 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "PHY/NR_TRANSPORT/nr_transport_proto.h"
-#include "PHY/TOOLS/nr_gold.h"
-#include "common/utils/LOG/log.h"
+// #include "PHY/NR_TRANSPORT/nr_transport_proto.h"
+// #include "PHY/TOOLS/nr_gold.h"
+// #include "common/utils/LOG/log.h"
 
 extern void nr_codeword_scrambling(uint8_t *in,
                                    uint32_t size,
